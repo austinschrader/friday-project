@@ -2,6 +2,10 @@
 	height: 300px;
 } */
 
+body {
+	font-family: Lato;
+}
+
 .nav-bar li {
 	float: right;
 }
@@ -12,7 +16,6 @@
 	padding: 0;
 	overflow: hidden;
 	background-color: #457b9d;
-	font-family: Lato;
 }
 
 .nav-bar li a {
