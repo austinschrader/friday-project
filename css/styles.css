@@ -1,8 +1,43 @@
-img {
+/* img {
 	height: 300px;
-}
+} */
 
 .nav-bar li {
+	float: right;
+}
+
+.nav-bar {
 	list-style-type: none;
-	text-align: right;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #457b9d;
+	font-family: Lato;
+}
+
+.nav-bar li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+
+.nav-bar li a:hover {
+	background-color: #a8dadc;
+	color: #457b9d;
+}
+
+/* Image of me */
+.image-description {
+	font-style: italic;
+}
+
+.hello-image {
+	height: 400px;
+}
+
+.hello-image-section {
+	background-color: #f1faee;
+	float: right;
 }
