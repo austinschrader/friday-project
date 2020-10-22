@@ -11,7 +11,7 @@ This project is Austin Schrader's portfolio. It was created using CSS, HTML, Git
 
 ## Link to live version of program
 
-www.github.com/austinschrader/friday-project/github.io
+https://austinschrader.github.io/friday-project/
 
 ## License
 
